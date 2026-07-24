@@ -6,4 +6,3 @@ plotly
 opencv-python-headless
 scikit-learn
 matplotlib
-seaborn
