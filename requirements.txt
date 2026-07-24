@@ -1,7 +1,9 @@
-tensorflow
-numpy
 streamlit
+tensorflow==2.16.1
+numpy
+pillow
+plotly
+opencv-python-headless
+scikit-learn
 matplotlib
 seaborn
-scikit-learn
-Pillow
