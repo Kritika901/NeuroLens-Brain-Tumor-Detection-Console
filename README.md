@@ -118,11 +118,6 @@ streamlit run app.py
 Open the local URL Streamlit prints in your browser, upload an MRI
 image, and click **Predict**.
 
-## Screenshots
-
-> Add screenshots of the app here after running it, e.g.
-> `images/app_home.png`, `images/app_prediction.png`
-
 ## Future Improvements
 
 - Fine-tune the top layers of MobileNetV2 instead of only training the classification head
